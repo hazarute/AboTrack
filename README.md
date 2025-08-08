@@ -7,8 +7,7 @@
 
 AboTrack, kullanıcıların aylık ve yıllık aboneliklerini (Netflix, Spotify, alan adları vb.) tek bir yerden takip etmelerini sağlayan, modern ve minimalist bir web uygulamasıdır. Bu araç, bütçe kontrolünü kolaylaştırır ve istenmeyen abonelik yenilemelerinin önüne geçmeye yardımcı olur.
 
-![AboTrack Ekran Görüntüsü](https://i.imgur.com/uG9p1oJ.png)
-*(Not: Bu alana projenizin güncel bir ekran görüntüsünü eklemeniz tavsiye edilir.)*
+![AboTrack Ekran Görüntüsü](https://imgur.com/a/Jnd7uYb)
 
 ## 🚀 Temel Özellikler
 
